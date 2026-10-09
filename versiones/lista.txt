@@ -8,3 +8,4 @@ v0.6 | JuegoChilote-v0.6-camahueto.zip | v0.6: La pelea con el Camahueto
 v0.7 | JuegoChilote-v0.7-pluma-premios.zip | v0.7: La pluma y los premios
 v0.8 | JuegoChilote-v0.8-libro-invunche.zip | v0.8: El libro y el Invunche
 v0.8.1 | JuegoChilote-v0.8.1-escalones-cuerno.zip | v0.8.1: Escalones del fondo y el cuerno del Camahueto
+v0.9 | ChiloteMyth-Quicavi-v0.9-portada-invunche.zip | v0.9: Chilote Myth: Quicaví
