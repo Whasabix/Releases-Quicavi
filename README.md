@@ -50,6 +50,9 @@ Se juega con teclado o con control de Xbox.
 | ![El bosque](capturas/bosque.png) El bosque del Trauco. | ![La cueva con el Farol](capturas/cueva-farol.png) La cueva, con el Farol del Caleuche. |
 | ![Diálogo con la meica](capturas/dialogo.png) Doña Eduvina, la meica, te da el natre. | ![El altar](capturas/altar.png) El altar de la capilla: ofrendas de cera. |
 | ![El mapa](capturas/mapa.png) El mapa completo, sin minimapa. | ![Planeando con la Pluma](capturas/pluma.png) Planeando con la Pluma del Chonchón. |
+| ![El Invunche en el techo](capturas/invunche-techo.png) El Invunche se trepa al techo y lanza huesos. | ![Los ojos del Camahueto](capturas/camahueto-ojos.png) Primero, solo los ojos del Camahueto. |
+| ![El Caleuche](capturas/caleuche.png) El Caleuche, escondido en la niebla tras la capilla de los náufragos. | ![El libro](capturas/final-libro.png) El libro del final: firmar o quemar. |
+| ![El Macuñ](capturas/macun-viaje.png) Con el Macuñ vuelas entre capillas. | |
 
 ![Personajes y jefes](capturas/personajes-y-jefes.png)
 
@@ -75,6 +78,7 @@ Todas las versiones quedan guardadas para descargar en
 
 | Versión | Qué trae |
 | --- | --- |
+| [v0.8](../../releases/tag/v0.8) | Pelea final nueva con el Invunche en el techo, el libro con dos finales, el Macuñ para viajar entre capillas, entrada del Camahueto, Caleuche en la niebla. |
 | [v0.7](../../releases/tag/v0.7) | La pluma ondea al planear, los jefes sueltan su premio, más sonido en la carga del Camahueto. |
 | [v0.6](../../releases/tag/v0.6) | La pelea con el Camahueto, tormenta en todo el exterior, música del bosque. |
 | [v0.5](../../releases/tag/v0.5) | Tormenta tras el faro, infusiones de natre, la iglesia de Quicaví, canción del Invunche. |
