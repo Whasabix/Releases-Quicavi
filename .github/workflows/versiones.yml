@@ -1,0 +1,35 @@
+# Publica cada versión de versiones/lista.txt como una Release de GitHub
+# (con su .zip y su nota de versiones/notas/), si todavía no existe.
+# Corre sola al subir cambios a main; también se puede lanzar a mano.
+name: Publicar versiones
+
+on:
+  push:
+    branches: [main]
+    paths: ["versiones/**", ".github/workflows/versiones.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Crear las Releases que falten
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          last=$(grep -v '^#' versiones/lista.txt | grep -v '^\s*$' | tail -1 | cut -d'|' -f1 | xargs)
+          grep -v '^#' versiones/lista.txt | grep -v '^\s*$' | while IFS='|' read -r tag file title; do
+            tag=$(echo "$tag" | xargs); file=$(echo "$file" | xargs); title=$(echo "$title" | xargs)
+            if gh release view "$tag" >/dev/null 2>&1; then
+              echo "$tag ya existe"
+              continue
+            fi
+            latest="--latest=false"
+            if [ "$tag" = "$last" ]; then latest="--latest"; fi
+            gh release create "$tag" "versiones/$file" --title "$title" --notes-file "versiones/notas/$tag.md" $latest
+            echo "$tag publicada"
+          done

@@ -1,0 +1,8 @@
+# versión | archivo | título
+v0.1 | JuegoChilote-v0.1-vertical-slice.zip | v0.1: Las primeras salas
+v0.2 | JuegoChilote-v0.2-mapa-completo.zip | v0.2: El mapa completo
+v0.3 | JuegoChilote-v0.3-combate-musica-guardado.zip | v0.3: Combate, música y guardado
+v0.4 | JuegoChilote-v0.4-cera-altar-ataques.zip | v0.4: Cera, altar y ataques nuevos
+v0.5 | JuegoChilote-v0.5-tormenta-natre.zip | v0.5: Tormenta, natre y la iglesia de Quicaví
+v0.6 | JuegoChilote-v0.6-camahueto.zip | v0.6: La pelea con el Camahueto
+v0.7 | JuegoChilote-v0.7-pluma-premios.zip | v0.7: La pluma y los premios
