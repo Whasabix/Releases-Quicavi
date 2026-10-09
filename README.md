@@ -83,8 +83,3 @@ Todas las versiones quedan guardadas para descargar en
 | [v0.2](../../releases/tag/v0.2) | El mapa completo: 22 salas, tres habilidades y tres jefes. |
 | [v0.1](../../releases/tag/v0.1) | Las primeras salas, el combate y el Cuerno del Camahueto. |
 
-## Sobre el proyecto
-
-Es un proyecto personal, en desarrollo y sin fecha. El nombre todavía es
-provisorio. Está hecho en Godot; el código vive en un repositorio privado y aquí
-se publican solo las versiones para jugar.
