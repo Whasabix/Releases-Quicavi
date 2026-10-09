@@ -1,4 +1,6 @@
-# Juego Chilote (nombre provisorio)
+# Chilote Myth: Quicaví
+
+![Portada](capturas/portada.png)
 
 **Un metroidvania oscuro inspirado en los mitos y leyendas de Chiloé.**
 
@@ -16,7 +18,7 @@ fondo de la cueva y enfrentar al Invunche.
 **[⬇ Descargar la última versión](../../releases/latest)** (Windows, un .zip de unos 40 MB)
 
 1. Descarga el `.zip` de la versión que quieras (abajo, en "Versiones", están todas).
-2. Descomprímelo y abre `JuegoChilote.exe`. No necesita instalación.
+2. Descomprímelo y abre `ChiloteMyth.exe` (en las versiones anteriores a la v0.9 se llama `JuegoChilote.exe`). No necesita instalación.
 3. Si Windows muestra "Windows protegió su PC", haz clic en **Más información** y
    después en **Ejecutar de todas formas**. Aparece porque el juego no está firmado
    (es un proyecto personal), no porque tenga algo malo.
@@ -46,7 +48,7 @@ Se juega con teclado o con control de Xbox.
 | | |
 | --- | --- |
 | ![La iglesia de Quicaví](capturas/iglesia-quicavi.png) La iglesia de San Pedro de Quicaví, donde empieza todo. | ![Tormenta](capturas/tormenta.png) La tormenta sobre Quicaví. |
-| ![El Camahueto](capturas/jefe-camahueto.png) El Camahueto, que guarda su cuerno. | ![El Invunche](capturas/jefe-invunche.png) El Invunche, al fondo de la cueva. |
+| ![El Camahueto](capturas/jefe-camahueto.png) El Camahueto, que guarda su cuerno. | ![El Invunche](capturas/jefe-invunche.png) El Invunche, con la pierna sobre la espalda y la cabeza al revés. |
 | ![El bosque](capturas/bosque.png) El bosque del Trauco. | ![La cueva con el Farol](capturas/cueva-farol.png) La cueva, con el Farol del Caleuche. |
 | ![Diálogo con la meica](capturas/dialogo.png) Doña Eduvina, la meica, te da el natre. | ![El altar](capturas/altar.png) El altar de la capilla: ofrendas de cera. |
 | ![El mapa](capturas/mapa.png) El mapa completo, sin minimapa. | ![Planeando con la Pluma](capturas/pluma.png) Planeando con la Pluma del Chonchón. |
@@ -78,6 +80,7 @@ Todas las versiones quedan guardadas para descargar en
 
 | Versión | Qué trae |
 | --- | --- |
+| [v0.9](../../releases/tag/v0.9) | El nombre Chilote Myth: Quicaví, la portada en la pantalla de título y el Invunche redibujado. |
 | [v0.8.1](../../releases/tag/v0.8.1) | Vuelve el trueno anterior, escalones para salir del fondo, el Camahueto aparece con su cuerno brillando al tocar el suelo. |
 | [v0.8](../../releases/tag/v0.8) | Pelea final nueva con el Invunche en el techo, el libro con dos finales, el Macuñ para viajar entre capillas, entrada del Camahueto, Caleuche en la niebla. |
 | [v0.7](../../releases/tag/v0.7) | La pluma ondea al planear, los jefes sueltan su premio, más sonido en la carga del Camahueto. |
