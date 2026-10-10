@@ -1,5 +1,7 @@
 # Publica cada versión de versiones/lista.txt como una Release de GitHub
 # (con su .zip y su nota de versiones/notas/), si todavía no existe.
+# Después saca del repo los .zip ya publicados: las descargas viven solo en
+# Releases y la carpeta versiones/ queda limpia.
 # Corre sola al subir cambios a main; también se puede lanzar a mano.
 name: Publicar versiones
 
@@ -33,3 +35,22 @@ jobs:
             gh release create "$tag" "versiones/$file" --title "$title" --notes-file "versiones/notas/$tag.md" $latest
             echo "$tag publicada"
           done
+      - name: Sacar del repo los .zip que ya están en Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          shopt -s nullglob
+          for zip in versiones/*.zip; do
+            file=$(basename "$zip")
+            tag=$(grep -v '^#' versiones/lista.txt | awk -F'|' -v f="$file" '{gsub(/ /,"",$1); g=$2; gsub(/ /,"",g); if (g==f) print $1}')
+            if [ -n "$tag" ] && gh release view "$tag" --json assets -q '.assets[].name' | grep -qx "$file"; then
+              git rm -q "$zip"
+              echo "$file ya está en la Release $tag: se saca del repo"
+            fi
+          done
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898783+github-actions[bot]@users.noreply.github.com"
+            git commit -q -m "Sacar del repo los .zip ya publicados en Releases"
+            git push
+          fi
