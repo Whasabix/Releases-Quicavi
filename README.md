@@ -61,7 +61,8 @@ Se juega con teclado o con control de Xbox.
 | ![El mapa](capturas/mapa.png) El mapa completo, sin minimapa. | ![Planeando con la Pluma](capturas/pluma.png) Planeando con la Pluma del Chonchón. |
 | ![El Invunche en el techo](capturas/invunche-techo.png) El Invunche se trepa al techo y lanza huesos. | ![El cuerno del Camahueto](capturas/camahueto-cuerno.png) Primero, solo brilla el cuerno del Camahueto. |
 | ![El Caleuche](capturas/caleuche.png) El Caleuche, escondido en la niebla tras la capilla de los náufragos. | ![El libro](capturas/final-libro.png) El libro del final: firmar o quemar. |
-| ![El Macuñ](capturas/macun-viaje.png) Con el Macuñ vuelas entre capillas. | |
+| ![El Macuñ](capturas/macun-viaje.png) Con el Macuñ vuelas entre capillas. | ![Golpe hacia arriba](capturas/golpe-arriba.png) El golpe hacia arriba, contra un Chonchón. |
+| ![El hacha del Trauco](capturas/hacha-trauco.png) El hacha de piedra del Trauco: lenta, pero pega más. | ![Golpe cargado](capturas/golpe-cargado.png) El golpe cargado, listo para soltarse. |
 
 ![Personajes y jefes](capturas/personajes-y-jefes.png)
 
@@ -72,6 +73,9 @@ Se juega con teclado o con control de Xbox.
 | Moverse | A / D o flechas | Palanca izquierda o cruceta |
 | Saltar (mantén para saltar más alto) | Espacio | A |
 | Atacar con la cruz (cadena de 3 golpes) | J | X |
+| Golpe hacia arriba (también saltando) | W + J | Arriba + X |
+| Golpe cargado (mantén y suelta cuando brille) | mantener J | mantener X |
+| Cambiar entre la cruz y el hacha del Trauco | Q | LB |
 | Esquivar rodando | K o Shift | B |
 | Tomar una infusión de natre | L | Y |
 | Embestida con el Cuerno del Camahueto | U | RB |
@@ -87,6 +91,7 @@ Todas las versiones quedan guardadas para descargar en
 
 | Versión | Qué trae |
 | --- | --- |
+| [v0.10](../../releases/tag/v0.10) | Golpe hacia arriba, golpe cargado, el hacha de piedra del Trauco como arma nueva, la embestida ya no protege y hay que subir el faro para llegar a la cueva. |
 | [v0.9](../../releases/tag/v0.9) | El nombre Chilote Myth: Quicaví, la portada en la pantalla de título y el Invunche redibujado. |
 | [v0.8.1](../../releases/tag/v0.8.1) | Vuelve el trueno anterior, escalones para salir del fondo, el Camahueto aparece con su cuerno brillando al tocar el suelo. |
 | [v0.8](../../releases/tag/v0.8) | Pelea final nueva con el Invunche en el techo, el libro con dos finales, el Macuñ para viajar entre capillas, entrada del Camahueto, Caleuche en la niebla. |
