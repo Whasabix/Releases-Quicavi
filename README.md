@@ -98,17 +98,4 @@ Todas las versiones quedan guardadas para descargar en
 | [v0.2](../../releases/tag/v0.2) | El mapa completo: 22 salas, tres habilidades y tres jefes. |
 | [v0.1](../../releases/tag/v0.1) | Las primeras salas, el combate y el Cuerno del Camahueto. |
 
-## ¿Encontraste un error?
 
-Avísame en **[Issues](../../issues)** (botón *New issue*): cuéntame qué versión
-tienes, qué pasó y en qué parte del mapa estabas. Si puedes, agrega una captura.
-
-## Créditos
-
-Hecho por **Ramón** ([Whasabix](https://github.com/Whasabix)) con el motor
-[Godot](https://godotengine.org). Historia, arte en pixel art y música propios,
-inspirados en los mitos y leyendas de Chiloé.
-
-© 2026 Ramón (Whasabix). Todos los derechos reservados. Puedes descargar y jugar
-el juego gratis y compartir el link de esta página; no se permite subir el juego
-a otros sitios ni venderlo.
