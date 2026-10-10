@@ -1,6 +1,6 @@
 # Chilote Myth: Quicaví
 
-![Portada](capturas/portada.png)
+![Portada](capturas/portada-chilote-myth.png)
 
 **Un metroidvania oscuro inspirado en los mitos y leyendas de Chiloé.**
 
