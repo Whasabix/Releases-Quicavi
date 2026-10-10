@@ -89,6 +89,7 @@ Todas las versiones quedan guardadas para descargar en
 
 | Versión | Qué trae |
 | --- | --- |
+| [v0.11](../../releases/tag/v0.11) | Primera prueba del arte nuevo: imagen más nítida (1080p), el fiscal y el Trauco redibujados con animaciones nuevas y el bosque nuevo en la Entrada del bosque. |
 | [v0.10](../../releases/tag/v0.10) | Golpe hacia arriba, golpe cargado, el hacha de piedra del Trauco como arma nueva, la embestida ya no protege y hay que subir el faro para llegar a la cueva. |
 | [v0.9](../../releases/tag/v0.9) | El nombre Chilote Myth: Quicaví, la portada en la pantalla de título y el Invunche redibujado. |
 | [v0.8.1](../../releases/tag/v0.8.1) | Vuelve el trueno anterior, escalones para salir del fondo, el Camahueto aparece con su cuerno brillando al tocar el suelo. |
