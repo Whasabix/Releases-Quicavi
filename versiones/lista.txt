@@ -11,3 +11,4 @@ v0.8.1 | JuegoChilote-v0.8.1-escalones-cuerno.zip | v0.8.1: Escalones del fondo 
 v0.9 | ChiloteMyth-Quicavi-v0.9-portada-invunche.zip | v0.9: Chilote Myth: Quicaví
 v0.10 | ChiloteMyth-Quicavi-v0.10-cruz-y-hacha.zip | v0.10: La cruz y el hacha
 v0.11 | ChiloteMyth-Quicavi-v0.11-arte-piloto-del-bosque.zip | v0.11: Arte piloto del bosque
+v0.11.1 | ChiloteMyth-Quicavi-v0.11.1-animaciones-suaves.zip | v0.11.1: Animaciones suaves
