@@ -15,8 +15,6 @@ brujos de la Recta Provincia, sube algo que no debería existir. Con tu cruz de
 madera y lo que les quites a las criaturas del mito, tienes que bajar hasta el
 fondo de la cueva y enfrentar al Invunche.
 
-![Pantalla de título](capturas/titulo.png)
-
 ## Descargar
 
 **[⬇ Descargar la última versión](../../releases/latest)** (Windows, un .zip de unos 40 MB)
