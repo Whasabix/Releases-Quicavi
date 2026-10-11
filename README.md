@@ -52,6 +52,7 @@ Se juega con teclado o con control de Xbox.
 
 | | |
 | --- | --- |
+| ![La pesadilla](capturas/cinematica-pesadilla.png) La cinemática de inicio: la pesadilla del fiscal. | ![La salida](capturas/cinematica-salida.png) Las campanas lo llaman a la tormenta. |
 | ![La iglesia de Quicaví](capturas/iglesia-quicavi.png) La iglesia de San Pedro de Quicaví, donde empieza todo. | ![Tormenta](capturas/tormenta.png) La tormenta sobre Quicaví. |
 | ![El Camahueto](capturas/jefe-camahueto.png) El Camahueto, que guarda su cuerno. | ![El Invunche](capturas/jefe-invunche.png) El Invunche, con la pierna sobre la espalda y la cabeza al revés. |
 | ![El bosque](capturas/bosque.png) El bosque del Trauco. | ![La cueva con el Farol](capturas/cueva-farol.png) La cueva, con el Farol del Caleuche. |
@@ -89,6 +90,7 @@ Todas las versiones quedan guardadas para descargar en
 
 | Versión | Qué trae |
 | --- | --- |
+| [v0.11.3](../../releases/tag/v0.11.3) | Cinemática de inicio en viñetas, la portada nueva en la pantalla de título, letras nuevas, el fiscal sin gorro y fondos que se mueven menos. |
 | [v0.11.2](../../releases/tag/v0.11.2) | Cielo, mar, cerros, roca y tablones nuevos en las ocho salas de la costa, con cielo de tormenta después del faro. |
 | [v0.11.1](../../releases/tag/v0.11.1) | Rueda, golpe y muerte del fiscal cuadro a cuadro, sonidos nuevos del Camahueto, letras nítidas, golpe cargado más justo y pausa con pantalla completa o ventana y volver al título. |
 | [v0.11](../../releases/tag/v0.11) | Primera prueba del arte nuevo: imagen más nítida (1080p), el fiscal y el Trauco redibujados con animaciones nuevas y el bosque nuevo en la Entrada del bosque. |
