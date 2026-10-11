@@ -92,6 +92,7 @@ Todas las versiones quedan guardadas para descargar en
 | --- | --- |
 | [v0.11.3](../../releases/tag/v0.11.3) | Cinemática de inicio en viñetas, la portada nueva en la pantalla de título, letras nuevas, el fiscal sin gorro y fondos que se mueven menos. |
 | [v0.11.4](../../releases/tag/v0.11.4) | Todo el arte nuevo: las personas y sus retratos, la cruz y el hacha, la quebrada, la cueva, los enemigos y los jefes (el Invunche de la portada). |
+| [v0.11.5](../../releases/tag/v0.11.5) | Decoración, interfaz, objetos, capillas y mapa con el arte nuevo: corazones de exvoto, mates de natre, cuadros de madera y capillas de tejuelas. |
 | [v0.11.2](../../releases/tag/v0.11.2) | Cielo, mar, cerros, roca y tablones nuevos en las ocho salas de la costa, con cielo de tormenta después del faro. |
 | [v0.11.1](../../releases/tag/v0.11.1) | Rueda, golpe y muerte del fiscal cuadro a cuadro, sonidos nuevos del Camahueto, letras nítidas, golpe cargado más justo y pausa con pantalla completa o ventana y volver al título. |
 | [v0.11](../../releases/tag/v0.11) | Primera prueba del arte nuevo: imagen más nítida (1080p), el fiscal y el Trauco redibujados con animaciones nuevas y el bosque nuevo en la Entrada del bosque. |

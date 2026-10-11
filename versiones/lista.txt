@@ -15,3 +15,4 @@ v0.11.1 | ChiloteMyth-Quicavi-v0.11.1-animaciones-suaves.zip | v0.11.1: Animacio
 v0.11.2 | ChiloteMyth-Quicavi-v0.11.2-arte-de-la-costa.zip | v0.11.2: Arte de la costa
 v0.11.3 | ChiloteMyth-Quicavi-v0.11.3-campanas-de-quicavi.zip | v0.11.3: Campanas de Quicaví
 v0.11.4 | ChiloteMyth-Quicavi-v0.11.4-bestias-de-chiloe.zip | v0.11.4: Bestias de Chiloé
+v0.11.5 | ChiloteMyth-Quicavi-v0.11.5-capillas-y-exvotos.zip | v0.11.5: Capillas y exvotos
