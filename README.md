@@ -90,6 +90,7 @@ Todas las versiones quedan guardadas para descargar en
 
 | Versión | Qué trae |
 | --- | --- |
+| [v0.11.7](../../releases/tag/v0.11.7) | Paso firme: caminata nueva con la cruz al hombro, embestida con el Cuerno, árboles con copa, pluma siempre alcanzable, HUD ordenado y golpes con peso y más desafío. |
 | [v0.11.6](../../releases/tag/v0.11.6) | Créditos y finales: una ilustración para cada final, el tiempo de juego al terminar y los créditos (también desde la pantalla de título). |
 | [v0.11.5](../../releases/tag/v0.11.5) | Capillas y exvotos: decoración, interfaz, objetos y mapa con el arte nuevo, con corazones de exvoto, mates de natre, cuadros de madera, capillas de tejuelas y el mapa en papel. |
 | [v0.11.4](../../releases/tag/v0.11.4) | Todo el arte nuevo: las personas y sus retratos, la cruz y el hacha, la quebrada, la cueva, los enemigos y los jefes (el Invunche de la portada). |
