@@ -52,18 +52,19 @@ Se juega con teclado o con control de Xbox.
 
 | | |
 | --- | --- |
-| ![La pesadilla](capturas/cinematica-pesadilla.png) La cinemática de inicio: la pesadilla del fiscal. | ![La salida](capturas/cinematica-salida.png) Las campanas lo llaman a la tormenta. |
-| ![La iglesia de Quicaví](capturas/iglesia-quicavi.png) La iglesia de San Pedro de Quicaví, donde empieza todo. | ![Tormenta](capturas/tormenta.png) La tormenta sobre Quicaví. |
-| ![El Camahueto](capturas/jefe-camahueto.png) El Camahueto, que guarda su cuerno. | ![El Invunche](capturas/jefe-invunche.png) El Invunche, con la pierna sobre la espalda y la cabeza al revés. |
-| ![El bosque](capturas/bosque.png) El bosque del Trauco. | ![La cueva con el Farol](capturas/cueva-farol.png) La cueva, con el Farol del Caleuche. |
-| ![Diálogo con la meica](capturas/dialogo.png) Doña Eduvina, la meica, te da el natre. | ![El altar](capturas/altar.png) El altar de la capilla: ofrendas de cera. |
-| ![El mapa](capturas/mapa.png) El mapa completo, sin minimapa. | ![Planeando con la Pluma](capturas/pluma.png) Planeando con la Pluma del Chonchón. |
-| ![El Invunche en el techo](capturas/invunche-techo.png) El Invunche se trepa al techo y lanza huesos. | ![El cuerno del Camahueto](capturas/camahueto-cuerno.png) Primero, solo brilla el cuerno del Camahueto. |
-| ![El Caleuche](capturas/caleuche.png) El Caleuche, escondido en la niebla tras la capilla de los náufragos. | ![El libro](capturas/final-libro.png) El libro del final: firmar o quemar. |
-| ![El Macuñ](capturas/macun-viaje.png) Con el Macuñ vuelas entre capillas. | ![Golpe hacia arriba](capturas/golpe-arriba.png) El golpe hacia arriba, contra un Chonchón. |
-| ![El hacha del Trauco](capturas/hacha-trauco.png) El hacha de piedra del Trauco: lenta, pero pega más. | ![Golpe cargado](capturas/golpe-cargado.png) El golpe cargado, listo para soltarse. |
+| ![La pesadilla](capturas/cinematica-pesadilla-v012.png) La cinemática de inicio: la pesadilla del fiscal. | ![La salida](capturas/cinematica-salida-v012.png) Las campanas lo llaman a la tormenta. |
+| ![La iglesia de Quicaví](capturas/iglesia-quicavi-v012.png) La iglesia de San Pedro de Quicaví, donde empieza todo. | ![Tormenta](capturas/tormenta-v012.png) La tormenta sobre Quicaví. |
+| ![El bosque](capturas/bosque-v012.png) La entrada del bosque del Trauco. | ![El Trauco viejo](capturas/trauco-viejo-v012.png) El Trauco viejo te espera en el claro con su hacha. |
+| ![El Camahueto](capturas/jefe-camahueto-v012.png) El Camahueto, que guarda su cuerno. | ![El cuerno del Camahueto](capturas/camahueto-cuerno-v012.png) Primero, solo brilla el cuerno del Camahueto. |
+| ![El Caleuche](capturas/caleuche-v012.png) El Caleuche, escondido en la niebla tras la capilla de los náufragos. | ![La cueva](capturas/cueva-farol-v012.png) La galería de los brujos, en la Cueva de Quicaví. |
+| ![El Invunche](capturas/jefe-invunche-v012.png) El Invunche, con la pierna sobre la espalda y la cabeza al revés. | ![El Invunche en el techo](capturas/invunche-techo-v012.png) El Invunche se trepa al techo y lanza huesos. |
+| ![Diálogo con la meica](capturas/dialogo-v012.png) Doña Eduvina, la meica, te da el natre. | ![El altar](capturas/altar-v012.png) El altar de la capilla: ofrendas de cera. |
+| ![El mapa](capturas/mapa-v012.png) El mapa completo, sin minimapa. | ![Los objetos](capturas/objetos-v012.png) La hoja de objetos: todo lo que llevas y para qué sirve. |
+| ![El Macuñ](capturas/macun-viaje-v012.png) Con el Macuñ vuelas entre capillas. | ![El libro](capturas/final-libro-v012.png) El libro del final: firmar o quemar. |
+| ![Golpe hacia arriba](capturas/golpe-arriba-v012.png) El golpe hacia arriba, contra un Chonchón. | ![Golpe cargado](capturas/golpe-cargado-v012.png) El golpe cargado, listo para soltarse. |
+| ![El hacha del Trauco](capturas/hacha-trauco-v012.png) El hacha de piedra del Trauco: lenta, pero pega más. | ![Planeando con la Pluma](capturas/pluma-v012.png) Planeando con la Pluma del Chonchón. |
 
-![Personajes y jefes](capturas/personajes-y-jefes.png)
+![Personajes y jefes](capturas/personajes-y-jefes-v012.png)
 
 ## Controles
 
