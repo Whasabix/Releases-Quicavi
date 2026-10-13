@@ -81,6 +81,7 @@ Se juega con teclado o con control de Xbox.
 | Planear con la Pluma del Chonchón (en el aire) | mantener Espacio | mantener A |
 | Descansar en la capilla / leer / hablar | W o flecha arriba | Cruceta arriba |
 | Mapa | M o Tab | View |
+| Objetos y estado | I (izquierda y derecha cambian de hoja) | View y cruceta |
 | Pausa | Esc o P | Menu (Start) |
 
 ## Versiones
@@ -90,6 +91,7 @@ Todas las versiones quedan guardadas para descargar en
 
 | Versión | Qué trae |
 | --- | --- |
+| [v0.12](../../releases/tag/v0.12) | Hachas y plumas: suelos nuevos sin repetirse, caminata de 12 cuadros, tomar natre y planear con la pluma en las manos, Traucos con hacha, Trauco viejo nuevo, poderes del Invunche dibujados e inventario con objetos y estado. |
 | [v0.11.7](../../releases/tag/v0.11.7) | Paso firme: caminata nueva con la cruz al hombro, embestida con el Cuerno, árboles con copa, pluma siempre alcanzable, HUD ordenado y golpes con peso y más desafío. |
 | [v0.11.6](../../releases/tag/v0.11.6) | Créditos y finales: una ilustración para cada final, el tiempo de juego al terminar y los créditos (también desde la pantalla de título). |
 | [v0.11.5](../../releases/tag/v0.11.5) | Capillas y exvotos: decoración, interfaz, objetos y mapa con el arte nuevo, con corazones de exvoto, mates de natre, cuadros de madera, capillas de tejuelas y el mapa en papel. |
