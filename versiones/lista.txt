@@ -19,3 +19,4 @@ v0.11.5 | ChiloteMyth-Quicavi-v0.11.5-capillas-y-exvotos.zip | v0.11.5: Capillas
 v0.11.6 | ChiloteMyth-Quicavi-v0.11.6-creditos-y-finales.zip | v0.11.6: Créditos y finales
 v0.11.7 | ChiloteMyth-Quicavi-v0.11.7-paso-firme.zip | v0.11.7: Paso firme
 v0.12 | ChiloteMyth-Quicavi-v0.12-hachas-y-plumas.zip | v0.12: Hachas y plumas
+v0.13 | ChiloteMyth-Quicavi-v0.13-achao-y-el-botero.zip | v0.13: Achao y el botero

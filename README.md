@@ -92,6 +92,7 @@ Todas las versiones quedan guardadas para descargar en
 
 | Versión | Qué trae |
 | --- | --- |
+| [v0.13](../../releases/tag/v0.13) | Achao y el botero: la puerta de los tres sellos, el botero que cruza a Achao con la carta del archipiélago, diez salas nuevas, herrería con mejoras de armas, boliche, encargos, la Voladora mayor y el mapa por isla (arte de Achao provisorio). |
 | [v0.12](../../releases/tag/v0.12) | Hachas y plumas: suelos nuevos sin repetirse, caminata de 12 cuadros, tomar natre y planear con la pluma en las manos, Traucos con hacha, Trauco viejo nuevo, poderes del Invunche dibujados e inventario con objetos y estado. |
 | [v0.11.7](../../releases/tag/v0.11.7) | Paso firme: caminata nueva con la cruz al hombro, embestida con el Cuerno, árboles con copa, pluma siempre alcanzable, HUD ordenado y golpes con peso y más desafío. |
 | [v0.11.6](../../releases/tag/v0.11.6) | Créditos y finales: una ilustración para cada final, el tiempo de juego al terminar y los créditos (también desde la pantalla de título). |
